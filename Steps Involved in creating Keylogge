@@ -1,0 +1,24 @@
+
+
+
+	Steps involved in creating the keylogger:
+
+1. First install pyinput using pip
+
+2. then provide the required coding for the key logger
+
+3. so that the key entered shall show along with the time and date
+
+4. Run the code 
+
+5. then we can see the key logs in a separate folder.
+
+6. For the keylogger to be started once the pc starts
+
+7. Go to windows + R and then open shell:startup
+
+8. Then copy the keylogger file in the startup.
+
+9. now the keys shall be shown in the keylog file.
+
+THANK YOU ..!!!
